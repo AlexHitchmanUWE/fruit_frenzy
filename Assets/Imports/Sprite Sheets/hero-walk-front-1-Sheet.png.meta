@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1e956e388e5276547a54019925b41ffa
+guid: fcb87eeab1be1c14ab0b92fb3919e4b9
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: hero-walk-side-2-sheet_0
+      name: hero-walk-front-1-Sheet_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +124,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f126a1d5f9623da4f89988504bb28d2e
-      internalID: 1833366595
+      spriteID: 7310c5e92de6caf4a82621cdc93697bb
+      internalID: 878793631
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-walk-side-2-sheet_1
+      name: hero-walk-front-1-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31eb1ac295343442a805fa03744a371
+      internalID: -814867929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-walk-front-1-Sheet_2
       rect:
         serializedVersion: 2
         x: 64
         y: 0
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +166,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3d70a2707848b14dbcc353cdea6b62b
-      internalID: 2068487423
+      spriteID: 08185c3befa308b4792cfa91b2a3d099
+      internalID: -850477674
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-walk-side-2-sheet_2
+      name: hero-walk-front-1-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8ca7b38ed99724393508679daf68e6
+      internalID: -343900787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-walk-front-1-Sheet_4
       rect:
         serializedVersion: 2
         x: 128
         y: 0
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f73726a3b61be5459811cdbaba3e4aa
-      internalID: 866686640
+      spriteID: 58eed1b9637136d4f8ca2eea3fc512f0
+      internalID: 1232277959
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-walk-side-2-sheet_3
+      name: hero-walk-front-1-Sheet_5
       rect:
         serializedVersion: 2
-        x: 192
+        x: 160
         y: 0
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,50 +229,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: acea2f5ed01d59847ad99b04fdb025cd
-      internalID: -1158972661
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hero-walk-side-2-sheet_4
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 01f8e196b7621944a935791d69eafc20
-      internalID: 1007598375
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hero-walk-side-2-sheet_5
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9b35d7637a00c0c4399822ec19ebcb8e
-      internalID: -85990620
+      spriteID: a4b1860c029f46c4080479baa3ec4b26
+      internalID: 1368539016
       vertices: []
       indices: 
       edges: []
@@ -238,7 +238,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: ce607eaf348ee664596e762f3f3e1624
+    spriteID: 30f176d3033e4ea45aa3aebb61256d0b
     internalID: 0
     vertices: []
     indices: 
@@ -246,12 +246,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      hero-walk-side-2-sheet_0: 1833366595
-      hero-walk-side-2-sheet_1: 2068487423
-      hero-walk-side-2-sheet_2: 866686640
-      hero-walk-side-2-sheet_3: -1158972661
-      hero-walk-side-2-sheet_4: 1007598375
-      hero-walk-side-2-sheet_5: -85990620
+      hero-walk-front-1-Sheet_0: 878793631
+      hero-walk-front-1-Sheet_1: -814867929
+      hero-walk-front-1-Sheet_2: -850477674
+      hero-walk-front-1-Sheet_3: -343900787
+      hero-walk-front-1-Sheet_4: 1232277959
+      hero-walk-front-1-Sheet_5: 1368539016
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
